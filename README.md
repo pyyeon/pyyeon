@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 박이연 (Yeon Park)
+# 👋 Hi, I'm 박이연 (Yeeyeon Park)
 
 안녕하세요 Java/Kotlin 기반의 백엔드를 중심으로,  
 React와 React Native, 그리고 Node.js까지 아우르며  
