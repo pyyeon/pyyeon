@@ -2,7 +2,9 @@
 
 안녕하세요 Java/Kotlin 기반의 백엔드를 중심으로,  
 React와 React Native, 그리고 Node.js까지 아우르며  
-**웹 · 모바일 · 배포까지 풀스택 실무 중심으로 개발하는 박이연**입니다.  
+**다양한 기술을 활용해 웹과 모바일 서비스를 개발하고 있는 개발자 박이연**입니다.  
+
+Hello! I'm a full-stack developer experienced in building end-to-end web and mobile services using Java/Kotlin, React, React Native, and Node.js.
 
 
 ---
