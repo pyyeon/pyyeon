@@ -1,7 +1,7 @@
 # 👋 Hi, I'm 박이연 (Yeeyeon Park)
 
 안녕하세요 Java/Kotlin 기반의 백엔드를 중심으로,  
-React와 React Native, 그리고 Node.js까지 아우르며  
+React와 React Native, 그리고 Node.js까지 
 **다양한 기술을 활용해 웹과 모바일 서비스를 개발하고 있는 개발자 박이연**입니다.  
 
 Hello! I'm a full-stack developer experienced in building end-to-end web and mobile services using Java/Kotlin, React, React Native, and Node.js.
@@ -56,7 +56,7 @@ Hello! I'm a full-stack developer experienced in building end-to-end web and mob
 
 ## 📝 Blog
 
-- 기술 블로그: [단대기 기술블로그](https://dandaegie.tistory.com/)
+- 기술 블로그: [단데기 기술블로그](https://dandaegie.tistory.com/)
 
 ---
 
