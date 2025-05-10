@@ -56,7 +56,7 @@ Hello! I'm a full-stack developer experienced in building end-to-end web and mob
 
 ## 📝 Blog
 
-- 기술 블로그: [단데기 기술블로그](https://dandaegie.tistory.com/)
+- 기술 블로그: [단데기](https://dandaegie.tistory.com/)
 
 ---
 
