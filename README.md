@@ -62,8 +62,9 @@ Hello! I'm a full-stack developer experienced in building end-to-end web and mob
 
 ## 📄 Resume & Portfolio
 
-- 포트폴리오(PDF): (https://parkyeeyeon.my.canva.site/pdf)
-- GitHub: (https://github.com/pyyeon)
+- 이력서: (https://parkyeeyeon.my.canva.site/resume)
+- 포트폴리오: (https://parkyeeyeon.my.canva.site/pdf)
+
 
 ---
 
